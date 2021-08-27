@@ -17,13 +17,13 @@ Tutorial on TF-Watcher which is a real-time remote service to get the Keras call
 
 <table>
    <tr>
-      <td><a href="http://www.youtube.com/watch?v=fczj0QNFiXo" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/fczj0QNFiXo?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+      <td><a href="http://www.youtube.com/watch?v=i1oNkUalkm4" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/i1oNkUalkm4?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
    </tr>
 </table>
 
 or click on the image below
 
-[![TFWatcher](http://img.youtube.com/vi/fczj0QNFiXo/0.jpg)](http://www.youtube.com/watch?v=fczj0QNFiXo)
+[![TFWatcher](http://img.youtube.com/vi/i1oNkUalkm4/0.jpg)](http://www.youtube.com/watch?v=i1oNkUalkm4)
 
 
 ### Want to know more about me?
